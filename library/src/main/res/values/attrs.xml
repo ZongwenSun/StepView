@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StepView">
+        <attr name="reachedDrawable" format="reference" />
+        <attr name="unreachedDrawable" format="reference" />
+        <attr name="currentDrawable" format="reference" />
+        <attr name="drawable" format="reference" />
+        <attr name="drawableMargin" format="dimension" />
+        <attr name="drawableSize"/>
+        <attr name="reachedLineColor" format="color" />
+        <attr name="unreachedLineColor" format="color" />
+        <attr name="lineColor" format="color" />
+        <attr name="lineHeight" format="dimension" />
+        <attr name="reachedTextColor" format="color" />
+        <attr name="unreachedTextColor" format="color" />
+        <attr name="currentTextColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="verticalSpace" format="dimension" />
+        <attr name="textPostion" format="enum">
+            <enum name="top" value="0" />
+            <enum name="bottom" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <attr name="StepViewStyle" format="reference" />
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<style name="DefaultStepViewStyle">-->
+        <!--<item name="drawable">@drawable/bg_pre_marker</item>-->
+        <!--&lt;!&ndash;<attr name="reachedDrawable" format="reference" />&ndash;&gt;-->
+        <!--&lt;!&ndash;<attr name="unreachedDrawable" format="reference" />&ndash;&gt;-->
+        <!--&lt;!&ndash;<attr name="currentDrawable" format="reference" />&ndash;&gt;-->
+        <!--<attr name="drawableMargin" format="dimension" />-->
+        <!--<attr name="drawableSize"/>-->
+        <!--<attr name="reachedLineColor" format="color" />-->
+        <!--<attr name="unreachedLineColor" format="color" />-->
+        <!--<attr name="lineColor" format="color" />-->
+        <!--<attr name="lineHeight" format="dimension" />-->
+        <!--<attr name="reachedTextColor" format="color" />-->
+        <!--<attr name="unreachedTextColor" format="color" />-->
+        <!--<attr name="currentTextColor" format="color" />-->
+        <!--<attr name="textColor" format="color" />-->
+        <!--<attr name="textSize" format="dimension" />-->
+        <!--<attr name="verticalSpace" format="dimension" />-->
+        <!--<attr name="textPostion" format="enum">-->
+            <!--<enum name="top" value="0" />-->
+            <!--<enum name="bottom" value="1" />-->
+        <!--</attr>-->
+    <!--</style>-->
+</resources>
